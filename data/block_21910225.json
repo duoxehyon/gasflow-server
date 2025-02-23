@@ -1,0 +1,820 @@
+{
+    "block": {
+        "number": 21910225,
+        "timestamp": 1740328199,
+        "base_fee": "880850135",
+        "gas_used": 9605092
+    },
+    "network": {
+        "mempool": {
+            "Count": 22,
+            "P10": 0.1,
+            "P30": 0.998478854,
+            "P50": 1,
+            "P70": 2,
+            "P90": 2,
+            "NextBlock": 21910226,
+            "NextBaseFee": 0.8295800752521726
+        },
+        "history": {
+            "gas_ratio_5": 0.40196024470702796,
+            "gas_spikes_25": 2,
+            "fee_ewma_10": 0.9197486677410572,
+            "fee_ewma_25": 0.8740261404128151
+        }
+    },
+    "txs": [
+        {
+            "hash": "0x01c05447f0cc7d52fa060baad3a31084a0ecf4dc6f7c64afa373d016840d0692",
+            "submission_block": 1740328190,
+            "max_fee": "10000000000",
+            "max_priority_fee": "10000000000",
+            "base_fee": "880850135",
+            "gas": 500000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x1c2b8b025633830f8355cf86e8ac75bf53fe71c983cb6724b0860ae93d9f56c2",
+            "submission_block": 1740328190,
+            "max_fee": "6875000000",
+            "max_priority_fee": "6875000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x5351f21788aceb69228bb330eacc1222197edf19811fa2268745f3fa5bf3b09a",
+            "submission_block": 1740328165,
+            "max_fee": "15030000000",
+            "max_priority_fee": "5010000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133676
+        },
+        {
+            "hash": "0x84d0cec8237c6a93c8f503824e96b0f4d1647f8944e30846a9258e1b2c1f6d6b",
+            "submission_block": 1740328190,
+            "max_fee": "33000000000",
+            "max_priority_fee": "3000000000",
+            "base_fee": "880850135",
+            "gas": 5000000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xe7325cc4c9fa21c40e641b15bfe651045b73a7493e3e3815c8b4adc988a46ad3",
+            "submission_block": 1740328190,
+            "max_fee": "3000000000",
+            "max_priority_fee": "3000000000",
+            "base_fee": "880850135",
+            "gas": 22000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x60fb4b64da220a0193124d80312964efb9c5966f2e4d0ce587f157aaa182730a",
+            "submission_block": 1740328190,
+            "max_fee": "21000000000",
+            "max_priority_fee": "2001000000",
+            "base_fee": "880850135",
+            "gas": 50000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xb95d06ce96bdea7020321c050442a1d0bcaf92e791da3c5dfa3f173ca505c8f6",
+            "submission_block": 1740328177,
+            "max_fee": "21000000000",
+            "max_priority_fee": "2001000000",
+            "base_fee": "880850135",
+            "gas": 50000,
+            "inclusion_blocks": 18446744071991133664
+        },
+        {
+            "hash": "0xe9ed8e3a6626dd3cf50e405dad3f599728ae4a9afbe964cb76a053b8dc924e38",
+            "submission_block": 1740328190,
+            "max_fee": "21000000000",
+            "max_priority_fee": "2001000000",
+            "base_fee": "880850135",
+            "gas": 50000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x429d54c6b7c0c75a5a83b26d883c865af8245b44250c010c148884c4b945e170",
+            "submission_block": 1740328190,
+            "max_fee": "502000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 210000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x3f85a18a3b9edb0aca6d50a2aa6f0113b4de698a3e8d97d6d6439cd3ba30ca96",
+            "submission_block": 1740328177,
+            "max_fee": "502000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 210000,
+            "inclusion_blocks": 18446744071991133664
+        },
+        {
+            "hash": "0x8150553733004ecdcd504da2a333fba2a9af6d103a7cbe04183394c998c8164b",
+            "submission_block": 1740328190,
+            "max_fee": "502000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 210000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x864662acbd2e8e52a0658df5cd771e5988721a18ad73428a7ea9311a4b806759",
+            "submission_block": 1740328190,
+            "max_fee": "502000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 210000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x8f4fb8d5936af7d29a8fc772267a68a7775e070e7f56328c297ea3d38b24fd1d",
+            "submission_block": 1740328190,
+            "max_fee": "200000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 90000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x94da43b7e400ed1bab4fc4c724e78edfdbbab9b931248805f95936773c7594da",
+            "submission_block": 1740328190,
+            "max_fee": "200000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 90000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xe3d167bd10c218828851785970c6903eb38631faa4261ce2f0826b91b20232f7",
+            "submission_block": 1740328190,
+            "max_fee": "102000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 207128,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xb2120b11a5af5869f1c4e66b157e4f813dd400a48402dcf2217232ed08d654d2",
+            "submission_block": 1740328190,
+            "max_fee": "102000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 207128,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x7c5067c9ad7adad45676073b21a1771e4dfe5520e42ac8ecaa6879c15efde017",
+            "submission_block": 1740328190,
+            "max_fee": "102000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 220436,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x0073193fa3ff1ee71fb6ba46048804adac8dd9a4fb72bc27d51a5cbae613e1e2",
+            "submission_block": 1740328190,
+            "max_fee": "6875000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x0ddba7786eafa4a0221af84771bb484642002df42a120efad078de3acee60b88",
+            "submission_block": 1740328190,
+            "max_fee": "6875000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xad031412f8d60ab2094a244afb47a355f7554c509e8e9df57fec096485346567",
+            "submission_block": 1740328190,
+            "max_fee": "6875000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 80000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xd9ccf3f4ee7620fe54aae7043222a72bb2b44d4b512b8fa81a9b4b4d83da9170",
+            "submission_block": 1740328190,
+            "max_fee": "6250000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x67ab3aed0f48c7e3db132da437455bc8c43d6a055367885a9ffb9091c7bee8f2",
+            "submission_block": 1740328190,
+            "max_fee": "6000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 60000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x848fbd6b9616b378d9caeb2419f8aabc28d5bab1c2e4672b032401bcbe7472a5",
+            "submission_block": 1740328190,
+            "max_fee": "3234886058",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xefca939761b629d181e1254cf162770429f2002547ef43e9e4fb98b26f76db05",
+            "submission_block": 1740328190,
+            "max_fee": "3000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 53956,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x9ee0777f275e6f0b478b02e523673ab71333c612fe7dae030244abb4d712efd7",
+            "submission_block": 1740328190,
+            "max_fee": "2880850135",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xcca0c889fb7c00aa17b5206c05001a18ee69843bb7c4eeb9a994198a4c588dda",
+            "submission_block": 1740328190,
+            "max_fee": "2880450134",
+            "max_priority_fee": "2880450134",
+            "base_fee": "880850135",
+            "gas": 630000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xef67573a09b825ef7b42a3101b718c01d5e9cf57f92a3eeff5072f2425c068a8",
+            "submission_block": 1740328177,
+            "max_fee": "3294696452",
+            "max_priority_fee": "1500000000",
+            "base_fee": "880850135",
+            "gas": 171488,
+            "inclusion_blocks": 18446744071991133664
+        },
+        {
+            "hash": "0x4ef964f0202e58c9548a29e680e15c437b9449aa24313d38a8edef08e2fb679d",
+            "submission_block": 1740328190,
+            "max_fee": "3146514744",
+            "max_priority_fee": "1500000000",
+            "base_fee": "880850135",
+            "gas": 860000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x12803262e9432eb178de6fb2145d80750e9cf2ab9050493a190eaf919a62bf2e",
+            "submission_block": 1740328190,
+            "max_fee": "3146514744",
+            "max_priority_fee": "1500000000",
+            "base_fee": "880850135",
+            "gas": 75000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x00ff868c68ed07cb938c39cdaa186bd73b4b0eed88b8b085c04166c45086625c",
+            "submission_block": 1740328190,
+            "max_fee": "2000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 350000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x993d8fd26d186fd1e0c8d413cbc4e55ea2e029722fe5f5a5c85ca9698dc455cb",
+            "submission_block": 1740328190,
+            "max_fee": "2000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 350000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x9bf5d053b4c76e71263b4cd023cec11d6cf95429289bb41e8560a37ec4721ec1",
+            "submission_block": 1740328190,
+            "max_fee": "2000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 350000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xe5276b23a4cb2d8f34c4e4dda8dd9ce4da98bdfa6b8c31050353ad2a80c01290",
+            "submission_block": 1740328190,
+            "max_fee": "2000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 350000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x572baf49b265730177a44396cb22365084668304489c7430efc6f63c2124b0eb",
+            "submission_block": 1740328190,
+            "max_fee": "2000000000",
+            "max_priority_fee": "2000000000",
+            "base_fee": "880850135",
+            "gas": 350000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x0dee8fa2ee120484a5d0e3caa0d6ba6ab259b69ed3df452d3756398d4d29ec15",
+            "submission_block": 1740328190,
+            "max_fee": "3000000000",
+            "max_priority_fee": "1000000000",
+            "base_fee": "880850135",
+            "gas": 23300,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x7b50e7552d0fdfbee16a99977d3f6644849740899fc7ee9af0395322d30e5c96",
+            "submission_block": 1740328190,
+            "max_fee": "3000000000",
+            "max_priority_fee": "1000000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x469f8ee5719180d4a73357c8da5da1489d43cd2ea7da8b4353cfa5dce38fc4ee",
+            "submission_block": 1740328190,
+            "max_fee": "3000000000",
+            "max_priority_fee": "1000000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x6e64dc71452dfcdd5195b8376f3990b8de20184406f96ddd9b9950433e5eef29",
+            "submission_block": 1740328190,
+            "max_fee": "3000000000",
+            "max_priority_fee": "1000000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x3cbe34ef90e6847d250e376b04d60a4872629cbfd16b7ba429b07cc1ab09919d",
+            "submission_block": 1740328190,
+            "max_fee": "3000000000",
+            "max_priority_fee": "1000000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x6e9409b3987d71ed4e95506813d9c97a16af765d611a27df3f3609fd8423fd31",
+            "submission_block": 1740328190,
+            "max_fee": "3000000000",
+            "max_priority_fee": "1000000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x6be19794e9324888a6bea4cdc0842dd749f6c03fccaa703a9edbe18c3c924c46",
+            "submission_block": 1740328190,
+            "max_fee": "3000000000",
+            "max_priority_fee": "1000000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x1dd82359bd1dee488311ab39ba303f0096f6285d60369dfd50ccae448fddb2e4",
+            "submission_block": 1740328177,
+            "max_fee": "1783207964",
+            "max_priority_fee": "500000000",
+            "base_fee": "880850135",
+            "gas": 63495,
+            "inclusion_blocks": 18446744071991133664
+        },
+        {
+            "hash": "0xa3771556d2df28f4544a20cddec9a0a24b9e415accbd91cb9c391bb81c39437a",
+            "submission_block": 1740328190,
+            "max_fee": "1783207964",
+            "max_priority_fee": "500000000",
+            "base_fee": "880850135",
+            "gas": 31500,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x5e99b14b8ae80084d7537441c18d964237d9c7b39071555f694d7f571a35e89d",
+            "submission_block": 1740328177,
+            "max_fee": "1777369315",
+            "max_priority_fee": "500000000",
+            "base_fee": "880850135",
+            "gas": 224481,
+            "inclusion_blocks": 18446744071991133664
+        },
+        {
+            "hash": "0xdee0bc7ff17413e699e0a8a4119a049b234a22de33587a54533d5101f3d0b8ad",
+            "submission_block": 1740328177,
+            "max_fee": "1777369315",
+            "max_priority_fee": "500000000",
+            "base_fee": "880850135",
+            "gas": 66876,
+            "inclusion_blocks": 18446744071991133664
+        },
+        {
+            "hash": "0xbdd45fc743a015b43f33b157061041e6c17d8928e67bcb66f9afe47e3581cc13",
+            "submission_block": 1740328190,
+            "max_fee": "1775348570",
+            "max_priority_fee": "500000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xa7ee3ad9bc036ceee83dc15dd1300c7ebf5cde8a13a620143e4c7dc7a1d07026",
+            "submission_block": 1740328190,
+            "max_fee": "1775348570",
+            "max_priority_fee": "500000000",
+            "base_fee": "880850135",
+            "gas": 58795,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x111e2d8f7f01c7c20d55b7441798f31a2e8e01e2cdb15d13c7a5b4ae1ff97975",
+            "submission_block": 1740328177,
+            "max_fee": "1734886058",
+            "max_priority_fee": "500000000",
+            "base_fee": "880850135",
+            "gas": 112100,
+            "inclusion_blocks": 18446744071991133664
+        },
+        {
+            "hash": "0x0f85dcc31f4aeb9836e6cb880c81ca475ece24a780522c81623039893838df3e",
+            "submission_block": 1740328177,
+            "max_fee": "1507392042",
+            "max_priority_fee": "305718686",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133664
+        },
+        {
+            "hash": "0xafced0b309fd1d2ad5d80913f3aed1a0cb120aef8b0ebecb4cecf486f95166db",
+            "submission_block": 1740328177,
+            "max_fee": "1452229659",
+            "max_priority_fee": "300984098",
+            "base_fee": "880850135",
+            "gas": 63710,
+            "inclusion_blocks": 18446744071991133664
+        },
+        {
+            "hash": "0x8cba2f5b9ebcd3b2ecff954921884afb6ac7fdbb31481149c99323961379eb88",
+            "submission_block": 1740328177,
+            "max_fee": "1448644980",
+            "max_priority_fee": "296616135",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133664
+        },
+        {
+            "hash": "0xf01c1da549b233d2658a425044e4175ce4df9db1a848419418925447ba81a657",
+            "submission_block": 1740328190,
+            "max_fee": "1121743989",
+            "max_priority_fee": "1121743989",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xc0c8470b08e773ff2d6d07835cea387359f98f116a11675833388cc034bb25ec",
+            "submission_block": 1740328177,
+            "max_fee": "980316214",
+            "max_priority_fee": "980316214",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133664
+        },
+        {
+            "hash": "0x8bcaef90f67b6eede1a3651b15ddec6fd657fe4b4b0fd9c70f085e5fa0a1c4b5",
+            "submission_block": 1740328190,
+            "max_fee": "1053074533",
+            "max_priority_fee": "1053074533",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xca5819828c4a20146329a8444361f23e402e19e1f6e5a393aaf2dd6374e11fa5",
+            "submission_block": 1740328190,
+            "max_fee": "1053074533",
+            "max_priority_fee": "1053074533",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x081c2a5ed679a5268e5674cf448a80cde121a378ae138bcea078fee92ce750b0",
+            "submission_block": 1740328190,
+            "max_fee": "1053074533",
+            "max_priority_fee": "1053074533",
+            "base_fee": "880850135",
+            "gas": 72864,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x6742c9bccc47950e2d0369bc5c2d91c052d1807fa775c4bdfd18f5da89be5d59",
+            "submission_block": 1740328190,
+            "max_fee": "1367799102",
+            "max_priority_fee": "155726307",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xa9c22ad93490c6bf37aecac84db51d9b1d3e8a1229eb0473848021660afd632d",
+            "submission_block": 1740328190,
+            "max_fee": "1030634657",
+            "max_priority_fee": "1030634657",
+            "base_fee": "880850135",
+            "gas": 100000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x6485c349c99583be3f8d7b9146eda30c4ba1ede94a6e3629fd32c1f78a5af822",
+            "submission_block": 1740328190,
+            "max_fee": "1030634657",
+            "max_priority_fee": "1030634657",
+            "base_fee": "880850135",
+            "gas": 100000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xe9fbb9cd61c83b9bdcd71770f911ec6bb4e2a708aea90e04c35e82bc0610ff22",
+            "submission_block": 1740328190,
+            "max_fee": "1000000000",
+            "max_priority_fee": "1000000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x6a7a73a0dc06dbfe51eaf6eeb20c5451588ec5b1f3faeca9839b9429d24302f3",
+            "submission_block": 1740328190,
+            "max_fee": "1000000000",
+            "max_priority_fee": "1000000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x464fb23ddc644670aede7f3b882fd0d2e210df4d2eb6f84e319d4f9588d09fff",
+            "submission_block": 1740328190,
+            "max_fee": "998478854",
+            "max_priority_fee": "998478854",
+            "base_fee": "880850135",
+            "gas": 250000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xc61f62470d9e81c7ab98ea34952ab968ebb60906ad8bfe971934638b90b34f41",
+            "submission_block": 1740328190,
+            "max_fee": "998478854",
+            "max_priority_fee": "998478854",
+            "base_fee": "880850135",
+            "gas": 250000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xe56760d882f8d90c435051913ef885264eea8420c96210fba3c40560119fddc3",
+            "submission_block": 1740328190,
+            "max_fee": "998478854",
+            "max_priority_fee": "998478854",
+            "base_fee": "880850135",
+            "gas": 250000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x76e6c56fa32955ff00b78ca03c9dc471c1cd51c82d12db0a16b3e6f555556061",
+            "submission_block": 1740328190,
+            "max_fee": "998478854",
+            "max_priority_fee": "998478854",
+            "base_fee": "880850135",
+            "gas": 150000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x13903513f3d38d2f7c917a0f190f7bbd7efdc37b9433ce758b4095a6ba1dee40",
+            "submission_block": 1740328190,
+            "max_fee": "1439223548",
+            "max_priority_fee": "105544537",
+            "base_fee": "880850135",
+            "gas": 22050,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x3b738385e002d3a075de3d1f8df6db5c72190a0c7c5587567c82a50473b38d1a",
+            "submission_block": 1740328190,
+            "max_fee": "1665505604",
+            "max_priority_fee": "100000000",
+            "base_fee": "880850135",
+            "gas": 162125,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xac74e289e92a9f170bf5e825616063c360ad0286324653ee7c6ac385ffa0eccb",
+            "submission_block": 1740328190,
+            "max_fee": "1023178838",
+            "max_priority_fee": "100000000",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x4c390407efdb31783cf2595956c43851e3f98d22ebe1d726dace8991a1dc390a",
+            "submission_block": 1740328190,
+            "max_fee": "999855188",
+            "max_priority_fee": "100000000",
+            "base_fee": "880850135",
+            "gas": 379700,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xf4d8173503cb61ff51b3980fef90de5ae8427add827d04e98256eef50eca6c30",
+            "submission_block": 1740328190,
+            "max_fee": "2010000000",
+            "max_priority_fee": "79000000",
+            "base_fee": "880850135",
+            "gas": 23100,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x186e8d7c7067f1c293802f726a38eefc83d6486238c544a0d1f2a218ac952c68",
+            "submission_block": 1740328190,
+            "max_fee": "1870000000",
+            "max_priority_fee": "79000000",
+            "base_fee": "880850135",
+            "gas": 193117,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x611a2dab93473b153aebc093a190f8602ed92237bbdb3ce40f5c1b97ed9d013e",
+            "submission_block": 1740328190,
+            "max_fee": "959600507",
+            "max_priority_fee": "100000000",
+            "base_fee": "880850135",
+            "gas": 80053,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x6fc263116fcfd224ebdade82b1fadad2038ff702a4b10de7431d735e2c4d3564",
+            "submission_block": 1740328177,
+            "max_fee": "1041935111",
+            "max_priority_fee": "73560363",
+            "base_fee": "880850135",
+            "gas": 56035,
+            "inclusion_blocks": 18446744071991133664
+        },
+        {
+            "hash": "0x1a758ebd10785680f1caee16c1376abed2c1a18e991d24947087c8efb64ed5b9",
+            "submission_block": 1740328190,
+            "max_fee": "920489945",
+            "max_priority_fee": "920489945",
+            "base_fee": "880850135",
+            "gas": 51140,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x817b70f52f3d6909f688e851ce5c707341d5e597127f74354a30aa3db34b0c0f",
+            "submission_block": 1740328190,
+            "max_fee": "1242414559",
+            "max_priority_fee": "30341764",
+            "base_fee": "880850135",
+            "gas": 84000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xd41ae2897f886f8efc42cfca8f570f4925d13762fd2f01cb20f4a8ec5422c84b",
+            "submission_block": 1740328190,
+            "max_fee": "1242414559",
+            "max_priority_fee": "30341764",
+            "base_fee": "880850135",
+            "gas": 84000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x42ed21d55d9d565faf27e5f463789867d727cdb8599dbde38e181d1f9a5eea9c",
+            "submission_block": 1740328190,
+            "max_fee": "906875973",
+            "max_priority_fee": "906875973",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0xc8138a659f87102f99583dc856b872495ef5165b688d1159a59d516c2b2cd18c",
+            "submission_block": 1740328190,
+            "max_fee": "1233312029",
+            "max_priority_fee": "21239234",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x749d05c11149ac0bcb0daf47a9235b1be5aa16a1d8396e014af3249dfc7fd125",
+            "submission_block": 1740328177,
+            "max_fee": "900000000",
+            "max_priority_fee": "900000000",
+            "base_fee": "880850135",
+            "gas": 2400000,
+            "inclusion_blocks": 18446744071991133664
+        },
+        {
+            "hash": "0x0b2ff92e1cd4828baa8757d1ea46dce21a6e2583bfedbed5fdf961f55b80a15c",
+            "submission_block": 1740328177,
+            "max_fee": "900000000",
+            "max_priority_fee": "900000000",
+            "base_fee": "880850135",
+            "gas": 2400000,
+            "inclusion_blocks": 18446744071991133664
+        },
+        {
+            "hash": "0x76e3e160144430ec576a930ec90cf1efea470d5e331345fb4dceca9b583c732e",
+            "submission_block": 1740328190,
+            "max_fee": "897348226",
+            "max_priority_fee": "897348226",
+            "base_fee": "880850135",
+            "gas": 84000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x26915e017d4248b1bd070929927edc66cb20452348aac9dd878958aa1f2016a4",
+            "submission_block": 1740328190,
+            "max_fee": "1258038010",
+            "max_priority_fee": "2500706",
+            "base_fee": "880850135",
+            "gas": 93776,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x1dc300172b2dfa1db0076e0b774069dda5ab0ca8ff7d552e05a42981815df38f",
+            "submission_block": 1740328190,
+            "max_fee": "1763575799",
+            "max_priority_fee": "1875529",
+            "base_fee": "880850135",
+            "gas": 21000,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x59129fcc429c58ce5a0a643cc7a3ed75883635af4beecb0d352834afd220f95e",
+            "submission_block": 1740328190,
+            "max_fee": "1058520585",
+            "max_priority_fee": "1500423",
+            "base_fee": "880850135",
+            "gas": 343476,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x38ec65cb1433ef56080766deea68b4c931370e4c7d53ead2ba84abbf4c3a91a4",
+            "submission_block": 1740328190,
+            "max_fee": "1058520585",
+            "max_priority_fee": "1500423",
+            "base_fee": "880850135",
+            "gas": 343476,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x05cdc71a6aca7f20cb3b8ffdc8ef17e00e082103e28341fe46a8e17da301d6ca",
+            "submission_block": 1740328190,
+            "max_fee": "1058520585",
+            "max_priority_fee": "1500423",
+            "base_fee": "880850135",
+            "gas": 764212,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x01f9c1c9203728a95e70645bbec647279d5fcf392a617693cd9fb69b4bee1385",
+            "submission_block": 1740328190,
+            "max_fee": "898848649",
+            "max_priority_fee": "1500423",
+            "base_fee": "880850135",
+            "gas": 183940,
+            "inclusion_blocks": 18446744071991133651
+        },
+        {
+            "hash": "0x5d500aacf723b28d36d645201face9bdffd8b68ca05830ad2d2d2cc9c948b95f",
+            "submission_block": 1740328190,
+            "max_fee": "1795946805",
+            "max_priority_fee": "1250353",
+            "base_fee": "880850135",
+            "gas": 189270,
+            "inclusion_blocks": 18446744071991133651
+        }
+    ]
+}
